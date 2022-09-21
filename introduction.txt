@@ -7,8 +7,6 @@
 7.recenty i complete my B,S,S at govt titumir college in Dhaka.
 8.now i am need a comfortable job.
 9.in future, i will a milinior man in Bangladesh.
-<<<<<<< HEAD
-=======
 10.at least i will join to human beig.
-11.and conclusion my life
->>>>>>> feature2
+11.and conclusion my life.
+12.my footer section link problem is solved.
