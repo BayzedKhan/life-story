@@ -10,3 +10,4 @@
 10.at least i will join to human beig.
 11.and conclusion my life.
 12.my footer section link problem is solved.
+13.this text is add from git-conflict.
